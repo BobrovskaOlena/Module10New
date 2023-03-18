@@ -14,17 +14,11 @@ public class MakeJson {
         FileReader fileReader = new FileReader(filePath);
         BufferedReader br = new BufferedReader(fileReader);
         String line = br.readLine();
-        boolean firstLine = true;
 
         while (line != null){
             line=br.readLine();
             if(line==null){
                 break;
-            }
-            if (firstLine) {
-                // перший рядок - заголовок
-                firstLine = false;
-                continue;
             }
 
             String[] f = line.split(" ");
