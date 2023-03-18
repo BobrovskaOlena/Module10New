@@ -1,3 +1,6 @@
 name age
 alice 21
 ryan 30
+olena 24
+oleg 35
+nadia 45

@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7cbe4328-a8af-4561-9727-26c42f66f221" name="Changes" comment="" />
+    <list default="true" id="7cbe4328-a8af-4561-9727-26c42f66f221" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/src/CountFrequencyWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/CountFrequencyWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/src/CountFrequencyWordsTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/CountFrequencyWordsTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/src/PhoneNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/PhoneNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/src/PhoneNumbersTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/PhoneNumbersTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/src/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/User.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
